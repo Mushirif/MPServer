@@ -1,0 +1,25 @@
+{
+  "uploadVideos": [
+    {
+      "id": "fb16",
+      "caption": "audi vs bmw",
+      "imgUrl": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/_N8cI5Op3Uc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "5f44",
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "fb16",
+          "caption": "audi vs bmw",
+          "imgUrl": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/_N8cI5Op3Uc"
+        }
+      ]
+    }
+  ],
+  "history": []
+}
